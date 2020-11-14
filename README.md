@@ -69,45 +69,40 @@ Adaptation for Mobile Applications</a></li>
 
    <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(33).pdf" style="text-decoration:none;">Multinomial Distribution Learning for Effective Neural Architecture Search</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(34).pdf" style="text-decoration:none;">Choosing Internet Paths with High Bulk Transfer Capacity</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(34).pdf" style="text-decoration:none;">AutoGAN: Neural Architecture Search for Generative Adversarial Networks</a></li> 
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(35).pdf" style="text-decoration:none;">Melody: A Distributed Music-Sharing System</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(35).pdf" style="text-decoration:none;">A Neurobiological Evaluation Metric for Neural Network Model Search</a></li> 
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(36).pdf" style="text-decoration:none;">A Keyword-Set Search System for Peer-to-Peer
-Networks</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(36).pdf" style="text-decoration:none;">Block-wisely Supervised Neural Architecture Search with Knowledge Distillation</a></li> 
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(37).pdf" style="text-decoration:none;">Herodotus: A Peer-to-PeerWeb Archival System</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(38).pdf" style="text-decoration:none;">A case study of server selection</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(39).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(40).pdf" style="text-decoration:none;">Programming language optimizations for modular router configurations</a></li>                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(41).pdf" style="text-decoration:none;">Fast Bug Finding in Lock-Free Data Structures with
-CB-DPOR</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(42).pdf" style="text-decoration:none;">Finding Linearization Violations in Lock-Free
-Concurrent Data Structures</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(37).pdf" style="text-decoration:none;">Single Path One-Shot Neural Architecture
+Search with Uniform Sampling</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(38).pdf" style="text-decoration:none;">BigNAS: Scaling Up Neural Architecture Search with Big Single-Stage Models</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(39).pdf" style="text-decoration:none;">A Semi-Supervised Assessor of Neural Architectures</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(40).pdf" style="text-decoration:none;">AdversarialNAS: Adversarial Neural Architecture Search for GANs</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(41).pdf" style="text-decoration:none;">Off-Policy Reinforcement Learning for Efficient and Effective GAN Architecture Search</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(42).pdf" style="text-decoration:none;">Are Labels Necessary for
+Neural Architecture Search?</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(43).pdf" style="text-decoration:none;">The Scalable Commutativity Rule:
-Designing Scalable Software for Multicore Processors</a></li>
- <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(44).pdf" style="text-decoration:none;">SCTP in Go</a></li>
-   <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(45).pdf" style="text-decoration:none;">Cloud Based Web Scraping for Big Data Applications</a></li>  
+  <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(43).pdf" style="text-decoration:none;">AutoDispNet: Improving Disparity EstimationWith AutoML</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(44).pdf" style="text-decoration:none;">AttentionNAS: Spatiotemporal Attention Cell Search for Video Classification</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(45).pdf" style="text-decoration:none;">Partial Order Pruning: for Best Speed/Accuracy Trade-off in Neural Architecture Search</a></li>  
    
-<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(46).pdf" style="text-decoration:none;">Conclave: secure multi-party computation on big data</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(46).pdf" style="text-decoration:none;">A Survey on Neural Architecture Search</a></li> 
                              
-<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(47).pdf" style="text-decoration:none;">Corey: An Operating System for Many Cores</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(48).pdf" style="text-decoration:none;">CPHash: A Cache-Partitioned Hash Table</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(47).pdf" style="text-decoration:none;">Fair DARTS: Eliminating Unfair Advantages in Differentiable Architecture Search</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(48).pdf" style="text-decoration:none;">Anti-Bandit Neural Architecture Search for Model Defense</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(49).pdf" style="text-decoration:none;">Scaling Address-Space Operations on Linux with
-TSX</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(49).pdf" style="text-decoration:none;">On Hyperparameter Optimization of Machine Learning Algorithms: Theory and Practice</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(50).pdf" style="text-decoration:none;">Why does cryptographic software fail?
-A case study and open problems</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(51).pdf" style="text-decoration:none;">In Defense of Wireless Carrier Sense</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(52).pdf" style="text-decoration:none;">Verifying concurrent software using movers in CSPEC</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(50).pdf" style="text-decoration:none;">Can weight sharing outperform random architecture search? An investigation with TuNAS</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(51).pdf" style="text-decoration:none;">Practical Block-wise Neural Network Architecture Generation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(52).pdf" style="text-decoration:none;">Auto-DeepLab:
+Hierarchical Neural Architecture Search for Semantic Image Segmentation</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(53).pdf" style="text-decoration:none;">The Little Manual of
-API Design</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(53).pdf" style="text-decoration:none;">Overcoming Multi-Model Forgetting in One-Shot NAS with Diversity Maximization</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(54).pdf" style="text-decoration:none;">Design and Applications of a Secure and Decentralized Distributed Hash Table </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(54).pdf" style="text-decoration:none;">Regularized Evolution for Image Classifier Architecture Search </a></li>
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(55).pdf" style="text-decoration:none;">Recovering from intrusions in distributed systems with DARE</a></li>
  
