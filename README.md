@@ -104,46 +104,43 @@ Hierarchical Neural Architecture Search for Semantic Image Segmentation</a></li>
  
 <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(54).pdf" style="text-decoration:none;">Regularized Evolution for Image Classifier Architecture Search </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(55).pdf" style="text-decoration:none;">Recovering from intrusions in distributed systems with DARE</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(55).pdf" style="text-decoration:none;">UNAS: Differentiable Architecture Search Meets Reinforcement Learning</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(56).pdf" style="text-decoration:none;">Verifying a high-performance crash-safe file system using a tree specification </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(56).pdf" style="text-decoration:none;">Rethinking Performance Estimation in Neural Architecture Search</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(57).pdf" style="text-decoration:none;">No Silver Bullet — Essence and Accident in Software Engineering</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(57).pdf" style="text-decoration:none;">Searching for Efficient Multi-Scale
+Architectures for Dense Image Prediction</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(58).pdf" style="text-decoration:none;">Proving confidentiality in a file system using DISKSEC</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(59).pdf" style="text-decoration:none;">Calvin: Fast Distributed Transactions
-for Partitioned Database Systems</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(58).pdf" style="text-decoration:none;">SGAS: Sequential Greedy Architecture Search</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(59).pdf" style="text-decoration:none;">Discovering Neural Wirings</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(60).pdf" style="text-decoration:none;">Executing Web Application Queries on a Partitioned Database </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(60).pdf" style="text-decoration:none;">Understanding and Simplifying One-Shot Architecture Search</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(61).pdf" style="text-decoration:none;">DNS Performance and the Effectiveness of Caching</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(61).pdf" style="text-decoration:none;">SNAS: Stochastic Neural Architecture Search</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(62).pdf" style="text-decoration:none;">Phase Reconciliation for Contended In-Memory Transactions</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(62).pdf" style="text-decoration:none;">TF-NAS: Rethinking Three Search Freedoms of Latency-Constrained Differentiable Neural Architecture Search</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(63).pdf" style="text-decoration:none;">Locating Cache Performance Bottlenecks Using Data Profiling</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(63).pdf" style="text-decoration:none;">Graph HyperNetworks for Neural Architecture Search</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(64).pdf" style="text-decoration:none;">Understanding Real-World Concurrency Bugs in Go</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(64).pdf" style="text-decoration:none;">Progressive Neural Architecture Search</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(65).pdf" style="text-decoration:none;">Dynamic Computation Migration
-in Distributed Shared Memory Systems </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(65).pdf" style="text-decoration:none;">Continual and Multi-Task Architecture Search </a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(66).pdf" style="text-decoration:none;">Extracting and Optimizing low-level bytecode from High-level verified Coq</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(66).pdf" style="text-decoration:none;">The Evolved Transformer</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(67).pdf" style="text-decoration:none;">Multiprocessing with the Exokernel Operating System</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(67).pdf" style="text-decoration:none;">Resource Constrained Neural Network Architecture Search: Will a Submodularity Assumption Help?</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(68).pdf" style="text-decoration:none;">Fast and Flexible Application-Level
-Networking on Exokernel Systems</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(68).pdf" style="text-decoration:none;">MFAS: Multimodal Fusion Architecture Search</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(69).pdf" style="text-decoration:none;">Device Transparency: a New Model for Mobile Storage</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(69).pdf" style="text-decoration:none;">AutoHAS: Efficient Hyperparameter and Architecture Search</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(70).pdf" style="text-decoration:none;">Eyo: Device-Transparent Personal Storage</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(70).pdf" style="text-decoration:none;">Neural Architecture Search: A Survey</a></li> 
   
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(71).pdf" style="text-decoration:none;">Measuring the Effects of Internet Path Faults on
-Reactive Routing</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(71).pdf" style="text-decoration:none;">BATS: Binary ArchitecTure Search</a></li>
  
- <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(72).pdf" style="text-decoration:none;">A Distributed Hash Table</a></li> 
+ <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(72).pdf" style="text-decoration:none;">Differentiable neural network architecture search </a></li> 
  
  
  </ul>
