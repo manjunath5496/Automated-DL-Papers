@@ -39,8 +39,7 @@ for Automated Machine Learning </a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(18).pdf" style="text-decoration:none;">ChamNet: Towards Efficient Network Design through Platform-Aware Model Adaptation</a></li> 
 
   
-<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(19).pdf" style="text-decoration:none;">DA-NAS: Data Adapted Pruning for Ecient
-Neural Architecture Search</a></li> 
+<li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(19).pdf" style="text-decoration:none;">DA-NAS: Data Adapted Pruning for Efficient Neural Architecture Search</a></li> 
 
 <li><a target="_blank" href="https://github.com/manjunath5496/Automated-DL-Papers/blob/master/aut(20).pdf" style="text-decoration:none;">ProxylessNAS: Direct Neural Architecture Search on Target Task and Hardware</a></li>
 
